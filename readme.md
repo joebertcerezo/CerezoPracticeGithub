@@ -9,3 +9,5 @@ naa mi sa master
 - added new line for pull
 
 - added again for pull and fetch
+
+- yah
