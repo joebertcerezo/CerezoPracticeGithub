@@ -10,4 +10,4 @@ added new line for pull
 
 added again for pull and fetch
 
-added for merge request
+added for merge and pull request
