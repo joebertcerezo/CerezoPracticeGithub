@@ -25,11 +25,50 @@
     background-color: white;
 }
 
-.jusitfycontent1{
+/* .jusitfycontent1{
     text-align: justify;
     text-justify: inter-word;
+} */
 
+h1{
+    font-family: Plus Jakarta Sana, sans-serif;
+    font-size: 35px;
 }
+
+.headingbg{
+    /* background-image: url("./assets/img/title-bg.png") cover no-repeat; */
+    background: url("./assets/img/title-bg.png") cover no-repeat;
+    background-color: #0c2840;
+}
+
+.clientimg{
+    width: auto;
+    height: auto;
+}
+ 
+.divsize{
+    width: 77%;
+    /* outline: 5px solid cyan; */
+}
+
+figure{
+    outline: 1px solid #f2f2f2;
+}
+
+.btn{
+    background-color: #0c2840 !important;
+    color: #ffffff !important;
+    height: auto;
+    width: auto;
+    font-size: 20px;
+}
+
+.btn:hover{
+    background-color:#ffffff  !important;
+    color: #0c2840 !important;
+    border: 1px solid #0c2840;
+}
+
 
 @media (min-width: 320px) and (max-width: 425px){
     .logox img{
