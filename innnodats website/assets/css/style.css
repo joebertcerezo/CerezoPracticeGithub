@@ -35,7 +35,6 @@ h1{
     font-size: 35px;
 }
 
-<<<<<<< HEAD
 .ourcompany div img{
     width: 100%;
 }
@@ -45,7 +44,6 @@ h1{
     width: 100px;
 }
 
-=======
 .headingbg{
     /* background-image: url("./assets/img/title-bg.png") cover no-repeat; */
     background: url("./assets/img/title-bg.png") cover no-repeat;
@@ -80,8 +78,6 @@ figure{
     border: 1px solid #0c2840;
 }
 
-
->>>>>>> 6ce849ffc428dc2a377640492a09df727ba9adbf
 @media (min-width: 320px) and (max-width: 425px){
     .logox img{
         width: 210px;
