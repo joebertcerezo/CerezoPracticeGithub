@@ -12,4 +12,4 @@ added again for pull and fetch
 
 added for merge request
 
-added for git fetch
+added for git fetch 1
