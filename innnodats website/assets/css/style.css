@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* outline: 1px solid black; */
+    outline: 1px solid black;
 }
 
 .inno-nav{
@@ -29,6 +29,15 @@
     text-align: justify;
     text-justify: inter-word;
 
+}
+
+.ourcompany div img{
+    width: 100%;
+}
+
+/* footer */
+.innofooter div img{
+    width: 100px;
 }
 
 @media (min-width: 320px) and (max-width: 425px){
